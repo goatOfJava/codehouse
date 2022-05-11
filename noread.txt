@@ -1,0 +1,21 @@
+kafka  怎么实现事务    哪些节点（partition知道吗）
+
+redis  数据类型、项目最常用命令、项目是不是用的redisTemplate
+
+设计模式    工厂  什么情况下用、有什么好处      单例  哪几种模式 ...     了解过反射吗，string通过反射修改内容
+
+mysql  Oracle 创建表有什么区别    sql有设计一些存储结构吗，如key-value   oracle的解释计划有哪些参数
+
+mybatis  常用标签、设置驼峰字符匹配 -  <where>标签作用
+
+springmvc  处理流程，controller在其中哪块，controller是使用的restful风格的嘛
+
+spring  bean的生命周期、怎么调bean的单例和非单例，什么区别   如何解决循环依赖问题
+
+集合  arraylist初始大小，hashmap初始大小   arraylist和linkedlist区别   hashmap 哈希碰撞时会发生什么   红黑树什么情况下发生自旋
+
+多线程  线程池什么时候创建、使用的时候吗，多线程集合，线程池核心线程数和最大线程数的概念，线程池配置参数及概念
+
+springcloud  哪些组件、ribbon怎么实现的，有哪些负载均衡模式
+
+项目：分布式锁怎么实现的
